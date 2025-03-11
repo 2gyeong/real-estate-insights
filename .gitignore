@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment (가상환경)
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm / VS Code 등 IDE 설정 폴더
+.idea/
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Unit test / coverage 결과
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage/
+
+# Sphinx documentation
+docs/_build/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MyPy, Pyre type checker files
+.mypy_cache/
+.pyre/
+
+# Local environment overrides
+.env
+.env.*
+*.env

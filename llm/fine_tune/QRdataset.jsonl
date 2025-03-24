@@ -1,0 +1,33 @@
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "계속보증이 뭐야?"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "어떤 질문을 할 수 있어?"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "임대차계약이 뭐야"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "토지허가제도란?"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "나 전세사기를 당한 것 같아ㅜㅜ 어떡하지"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "부동산에서 계약 갱신 하려면 뭐 가져가야 하지"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "서산 부동산 변호사 괜찮은 곳 있을까요?"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "협의 이혼시 공동명의 부동산"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "1가구 2주택 부동산 매매"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "사망자의 부동산 상속기한이 있나요?"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "개인회생 부동산 경매로 안 넘어가는 법"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "부동산 계약 중에 옮길 수 있나요?"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "강남에서 추천할 만한 아파트는 어떤 특징이 있나요?"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "사회 초년생에게 서울에서 추천할 만한 지역은 어디인가요?"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "매물을 고를 때 어떤 기준으로"}, {"role": "assistant", "content": "질문"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "산책을 자주 가고 병원이 가까우면 좋겠어"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "교통이 편리한 집을 추천해줘"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "자연과 가까운 곳에서 살면 건강에 좋다고 들었어요."}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "암 치료 비용이 많이 드니까 합리적인 가격대의 집을 찾고 있습니다."}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "고양이와 함께 살고 있어요"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "자연과 가까운 곳에서 살면 건강에 좋다고 들었어요."}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "집에서 걸어서 마트에 갈 수 있는 곳이 있을까요?"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "도서관 근처 집이 있나요?"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "드라이클리닝 서비스가 잘 되는 지역에 살고 싶어요."}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "병원이 가까운 곳에 위치한 아파트는 어디 있나요?"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "녹지가 많은 지역에서 살고 싶어요"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "강아지와 함께 산책하기 좋은 지역에 살고 싶고 동시에 부양가족을 위한 병원이 가까운 곳이면 좋겠어요."}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "청정한 공기가 많은 지역에서 살고 싶어요."}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "아이들이 안전하게 놀 수 있을만한 곳이 가까운 매물이 있을까요?"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "강남에 집을 추천해줄 수 있나요?"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "강남에 산책하기 좋은 공원이 많은 곳에서 살고 싶어요. 그런 지역을 추천해주세요"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "저는 강아지를 키우고 있어요. 같이 살기 좋은 아파트는 어디인가요?"}, {"role": "assistant", "content": "추천"}]}
+{"messages": [{"role": "system", "content": "사용자의 입력을 질문과 매물 추천 요청으로 구분하여 각각 \"질문\", \"추천\"만을 출력합니다."}, {"role": "user", "content": "교통이 편리한 아파트는 어디인가요?"}, {"role": "assistant", "content": "추천"}]}
